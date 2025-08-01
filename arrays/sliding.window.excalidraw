@@ -8,8 +8,8 @@
       "type": "text",
       "x": 394.2960983276366,
       "y": 290,
-      "width": 499.96769409179706,
-      "height": 69.99999999999999,
+      "width": 499.96795654296875,
+      "height": 70.00000000000004,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -23,8 +23,8 @@
       "index": "a0",
       "roundness": null,
       "seed": 1557022196,
-      "version": 91,
-      "versionNonce": 1333059828,
+      "version": 92,
+      "versionNonce": 2033433332,
       "isDeleted": false,
       "boundElements": [
         {
@@ -32,7 +32,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1754059824621,
+      "updated": 1754061256315,
       "link": null,
       "locked": false,
       "text": "[ b c b b b c b a ]",

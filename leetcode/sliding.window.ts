@@ -18,7 +18,9 @@ function maxLengthSubstring(s: string): number {
       map.set(s[left], map.get(s[left])! - 1);
       left++;
     }
-    max = Math.max(max, left - right + 1);
+    max = Math.max(max, right - left + 1);
   }
   return max;
 }
+
+console.log(maxLengthSubstring('bcbbbcba'));
