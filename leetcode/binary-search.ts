@@ -3,7 +3,7 @@ interface binarySearchProps {
   elemento: number
 }
 
-function binarySearch({nums, elemento}: binarySearchProps) {
+export function binarySearch({nums, elemento}: binarySearchProps) {
   let low = 0
   let high = nums.length
   let steps = 0
